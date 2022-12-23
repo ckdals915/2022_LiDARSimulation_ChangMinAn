@@ -56,7 +56,7 @@ Proceed to **number 4** in the above guidance, and then proceed with the followi
 
 #### 1-2. install library to use Ball Pivoting Algorithm
 
-<img src="images/Anaconda.jpg" style="zoom:90%;" />
+<img src="images/anaconda.jpg" style="zoom:90%;" />
 
 ##### 1-1-1. Conda & Pip Update
 
@@ -488,11 +488,8 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 | :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
 | <img src="images/Labeler10.jpg" style="zoom:100%;" /> | <img src="images/Labeler11.jpg" style="zoom:100%;" /> | <img src="images/Labeler12.jpg" style="zoom:100%;" /> |
 
+**[Demo Video](https://youtu.be/Hdqk4p8Chow)**
 
-
-**Demo Video**
-
-<video src="images/Labeler_Tutorial.mp4" style="zoom:50%"; />
 
 
 
