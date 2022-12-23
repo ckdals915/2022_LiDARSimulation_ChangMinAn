@@ -1,8 +1,8 @@
 # Generation of LiDAR Dataset for Human Detection in Virtual Smart Factory Environment
 
-<img src="images/blensor3.jpg" style="zoom:80%;" />
+<img src="images/blensor3.jpg" style="zoom:40%;" />
 
-<img src="images/tie.gif" style="zoom:80%;" />
+<img src="images/tie.gif" style="zoom:40%;" />
 
 
 
@@ -22,7 +22,7 @@ This project was carried out as a 2022-2 MIP study with advisor Ph.D Young-Keun 
 
 * Intel RealSense L515
 
-<img src="images/L5152.jpg" style="zoom:30%;" />
+<img src="images/L5152.jpg" style="zoom:20%;" />
 
 ### Software
 
