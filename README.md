@@ -64,8 +64,6 @@ Proceed to **number 4** in the above guidance, and then proceed with the followi
 conda update -n base conda
 conda activate py39
 python -m pip install --upgrade pip
-pip install numpy
-pip install open3d=0.15.1
 ```
 
 **1-1-2. Install Numpy & Open3D Library**
