@@ -19,20 +19,14 @@ print("setup")
 #                     Main                      #
 #===============================================#
 
-# Input Point Cloud Data Path
-input_path="D:\MIP\발표자료\Final_Image/"
-
-# Output Point Cloud Data Path
-output_path="D:\MIP\발표자료\Final_Image/"
-
 # Input Point Cloud Data Name
-dataname="powerplant1205_005.ply"
+dataname="powerplant1205_010.ply"
 
 # Output Point Cloud Data Name
-output_name="powerplant1220_005_ball_pivoting.ply"
+output_name="powerplant1220_010_ball_pivoting.ply"
 
 # Read Point Cloud Data
-pcd = o3d.io.read_point_cloud(input_path+dataname)
+pcd = o3d.io.read_point_cloud(dataname)
 
 # Normalize
 print("Normalize")
@@ -47,4 +41,4 @@ rec_mesh = o3d.geometry.TriangleMesh.create_from_point_cloud_ball_pivoting(
 
 # Write Result
 print("Write Result")
-o3d.io.write_triangle_mesh(output_path+output_name, rec_mesh)
+o3d.io.write_triangle_mesh(output_name, rec_mesh)
