@@ -118,7 +118,7 @@ It secures FPS through the memory use of GPU. To this end, the memory limit is s
 
 [Dot3D Trial Webpage](https://dot3dapp.com/licensing/buyDot3d.php)
 
-<img src="Final_Image/dot3d_trial.jpg" style="zoom:90%;" />
+<img src="images/dot3d_trial.jpg" style="zoom:90%;" />
 
 (0) Connect the LiDAR L515 to the computer
 
@@ -256,7 +256,7 @@ o3d.io.write_triangle_mesh(output_path+output_name, rec_mesh)
 
 
 
-**Result**
+#### **Result**
 
 |                       Raw Data                        |                 Ball Pivoting Algorithm                  |                       BPA + Smoothing                        |
 | :---------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
@@ -330,7 +330,7 @@ It measures human data in the same way as the **4-1** process. After the experim
 | :-------------------------------------------------: | :-------------------------------------------------: |
 | <img src="images/Meshlab4.jpg" style="zoom:90%;" /> | <img src="images/Meshlab6.jpg" style="zoom:50%;" /> |
 
-**Result**
+#### **Result**
 
 |                       Raw Data                       |                     Normalized Data                     |
 | :--------------------------------------------------: | :-----------------------------------------------------: |
@@ -418,7 +418,7 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 | :----------------------------------------------------: |
 | <img src="images/simulation7.jpg" style="zoom:80%;" /> |
 
-**result**
+#### **result**
 
 <img src="images/simulation9.jpg" style="zoom:80%;" />
 
@@ -575,4 +575,3 @@ o3d.io.write_triangle_mesh(output_path+output_name, rec_mesh)
 If you haver a question about the code or setting the environment, contact to me via e-mail
 
 [ckdals915@handong.ac.kr](mailto:hey.ckdals915@handong.ac.kr)
-
