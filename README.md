@@ -362,11 +362,11 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                          (1)                           |                          (2)                           |
 | :----------------------------------------------------: | :----------------------------------------------------: |
-| <img src="images/Simulation1.jpg" style="zoom:50%;" /> | <img src="images/Simulation2.jpg" style="zoom:90%;" /> |
+| <img src="images/simulation1.jpg" style="zoom:50%;" /> | <img src="images/simulation2.jpg" style="zoom:90%;" /> |
 
 |                          (3)                           |
 | :----------------------------------------------------: |
-| <img src="images/Simulation3.jpg" style="zoom:90%;" /> |
+| <img src="images/simulation3.jpg" style="zoom:90%;" /> |
 
 
 
@@ -376,7 +376,7 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                          (1)                           |
 | :----------------------------------------------------: |
-| <img src="images/Simulation4.jpg" style="zoom:90%;" /> |
+| <img src="images/simulation4.jpg" style="zoom:90%;" /> |
 
 
 
@@ -386,7 +386,7 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                           (1)                           |                         (2)                         |
 | :-----------------------------------------------------: | :-------------------------------------------------: |
-| <img src="images/Simulation8.jpg" style="zoom:200%;" /> | <img src="images/Blensor1.jpg" style="zoom:90%;" /> |
+| <img src="images/simulation8.jpg" style="zoom:200%;" /> | <img src="images/blensor1.jpg" style="zoom:90%;" /> |
 
 
 
@@ -396,7 +396,7 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                          (1)                           |
 | :----------------------------------------------------: |
-| <img src="images/Simulation5.jpg" style="zoom:80%;" /> |
+| <img src="images/simulation5.jpg" style="zoom:80%;" /> |
 
 
 
@@ -406,7 +406,7 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                           (1)                           |
 | :-----------------------------------------------------: |
-| <img src="images/Simulation6.jpg" style="zoom:120%;" /> |
+| <img src="images/simulation6.jpg" style="zoom:120%;" /> |
 
 
 
@@ -416,11 +416,11 @@ We can set the LiDAR specification in the Blensor. Currently, it is set as a LiD
 
 |                          (1)                           |
 | :----------------------------------------------------: |
-| <img src="images/Simulation7.jpg" style="zoom:80%;" /> |
+| <img src="images/simulation7.jpg" style="zoom:80%;" /> |
 
 **result**
 
-<img src="images/Simulation9.jpg" style="zoom:80%;" />
+<img src="images/simulation9.jpg" style="zoom:80%;" />
 
 <img src="images/blensor2.jpg" style="zoom:100%;" />
 
