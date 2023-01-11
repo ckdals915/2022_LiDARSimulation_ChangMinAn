@@ -1,4 +1,5 @@
-#include <sys/time.h>
+//#include <sys/time.h>
+#include <winsock2.h>
 #include <sys/types.h>
 #include <time.h>
 #include <unistd.h>

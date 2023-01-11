@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\pandarGeneral_sdk",
+    "\\out",
+    "\\src",
+    "\\src\\PandarGeneralRaw",
+    "\\src\\PandarGeneralRaw\\include",
+    "\\src\\PandarGeneralRaw\\include\\pandarGeneral",
+    "\\src\\PandarGeneralRaw\\src",
+    "\\test"
+  ],
+  "SelectedNode": "\\src\\PandarGeneralRaw\\src\\pandarGeneral_internal.cc",
+  "PreviewInSolutionExplorer": false
+}

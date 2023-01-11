@@ -20,8 +20,9 @@
 #include <poll.h>
 #include <string.h>
 #include <sys/file.h>
-#include <sys/socket.h>
-#include <sys/time.h>
+//#include <sys/socket.h>
+#include <winsock2.h>
+//#include <sys/time.h>
 #include <iostream>
 #include <sstream>
 #include <time.h>
